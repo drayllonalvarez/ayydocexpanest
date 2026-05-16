@@ -15,7 +15,7 @@ Compatible: iPhone 15 Pro, iPhone 16, iPhone 17+ (iOS 15+)
 
 ### **Cómo funciona:**
 1. Al abrir la app, aparece una pantalla de "Código Protegido"
-2. Debes ingresar la contraseña: `@L3w3ndy10*#`
+2. Debes ingresar la contraseña: 
 3. Una vez desbloqueado, puedes usar la app normalmente
 4. La app permanece desbloqueada durante la sesión
 5. Al cerrar el navegador/app, la próxima vez pedirá contraseña de nuevo
