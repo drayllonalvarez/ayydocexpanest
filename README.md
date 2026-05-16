@@ -9,7 +9,6 @@ Compatible: iPhone 15 Pro, iPhone 16, iPhone 17+ (iOS 15+)
 
 ### **Contraseña para acceder al código:**
 ```
-@L3w3ndy10*#
 ```
 
 ⚠️ **IMPORTANTE:** Esta contraseña protege el acceso a la aplicación completa. Solo tú debes conocerla.
@@ -33,7 +32,7 @@ Compatible: iPhone 15 Pro, iPhone 16, iPhone 17+ (iOS 15+)
 ## 🔑 DOS NIVELES DE SEGURIDAD
 
 ### **Nivel 1: Protección del Código** 🔐
-- **Contraseña:** `@L3w3ndy10*#`
+- **Contraseña:**
 - Protege el acceso a la aplicación completa
 - Requerida al abrir la app
 
@@ -88,7 +87,7 @@ expediente-anestesico-pwa/
 
 ### **1. Desbloquear el código**
 ```
-Contraseña: @L3w3ndy10*#
+Contraseña:
 ```
 Esta es la protección del código fuente.
 
@@ -170,7 +169,7 @@ Usa expedientes anestésicos normalmente
 1. Edita archivos en GitHub
 2. Espera 2-3 minutos
 3. Abre la app → Pide contraseña de código
-4. Ingresa `@L3w3ndy10*#`
+4. Ingresa
 5. Se actualiza automáticamente
 
 ---
@@ -178,14 +177,14 @@ Usa expedientes anestésicos normalmente
 ## 🆘 SOLUCIÓN DE PROBLEMAS
 
 ### ❌ "Olvidé la contraseña del código"
-**Es:** `@L3w3ndy10*#`  
+**Es:**
 No hay forma de recuperarla si no la recuerdas. Guárdala en un lugar seguro.
 
 ### ❌ "La app pide contraseña cada vez"
 Eso es correcto. Pide la contraseña del código cada vez que cierras y abres la app (por seguridad).
 
 ### ❌ "Alguien puede ver mi código"
-Con la contraseña `@L3w3ndy10*#` pueden acceder. No la compartas.
+Con la contraseña `` pueden acceder. No la compartas.
 
 ### ❌ "Quiero cambiar la contraseña del código"
 Necesitas editar el archivo `index.html` y cambiar el hash. Contáctame si necesitas hacerlo.
@@ -210,7 +209,7 @@ Necesitas editar el archivo `index.html` y cambiar el hash. Contáctame si neces
 - [ ] Subí **TODOS** los archivos a GitHub (incluyendo app-content.html)
 - [ ] Activé GitHub Pages
 - [ ] Instalé en mi iPhone
-- [ ] Probé contraseña del código: `@L3w3ndy10*#` ✅
+- [ ] Probé contraseña del código ✅
 - [ ] Hice login: admin / admin
 - [ ] Cambié contraseña del administrador
 - [ ] Creé usuarios para el equipo
@@ -220,7 +219,7 @@ Necesitas editar el archivo `index.html` y cambiar el hash. Contáctame si neces
 
 ## 🔐 RECUERDA
 
-✅ **Contraseña del código:** `@L3w3ndy10*#` (NO compartir)  
+✅ **Contraseña del código:** `` (NO compartir)  
 ✅ **Usuario admin:** `admin` / `admin` (cambiar después)  
 ✅ **Dos niveles de seguridad:** código + usuarios  
 ✅ **Sube ambos archivos HTML** a GitHub  
